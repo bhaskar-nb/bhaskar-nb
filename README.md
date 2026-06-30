@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Bhaskar 👋
 
-<!--
-**bhaskar-nb/bhaskar-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering graduate passionate about Data Analytics and transforming data into actionable business insights.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Aspiring Data Analyst
+- 📍 Visakhapatnam, Andhra Pradesh, India
+- 🎓 B.Tech in Computer Science and Engineering
+- 📈 Interested in Data Analytics, Business Intelligence, and Data Visualization
+- 🌱 Currently improving my SQL, Python, Tableau, and Power BI skills
+
+## Technical Skills
+
+- **Languages:** Python, SQL
+- **Visualization:** Tableau, Power BI, Microsoft Excel
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+## Featured Projects
+
+- 📊 Sales Performance Dashboard
+- 👥 HR Analytics Dashboard
+- 🚀 Startup Funding Analysis Dashboard
+
+## Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-nakka-43a701259/
+- 📂 GitHub: https://github.com/bhaskar-nb
+- 📈 Tableau Public: https://public.tableau.com/app/profile/bhaskar.nakka4980
