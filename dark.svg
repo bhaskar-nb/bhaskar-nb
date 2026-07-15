@@ -74,28 +74,33 @@
     <rect x="28" y="28" width="448" height="554" fill="#0F172A"/>
     <rect x="28" y="28" width="448" height="554" fill="url(#glassHi)" opacity="0.5"/>
     <rect x="28" y="28" width="448" height="249.3" fill="url(#glowA)" opacity="0.25"/>
-    <g transform="translate(252.0 98.0)">
-      <text x="0" y="0" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">        ░▒▓█████████▓▒░        </tspan></text>
-      <text x="0" y="21" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">      ▓███▀▀░░░░░░▀▀███▓      </tspan></text>
-      <text x="0" y="42" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">    ▓██▀   ░▒▓▓▓▓▒░   ▀██▓    </tspan></text>
-      <text x="0" y="63" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">   ██▀  ▒▓████████▓▒  ▀██   </tspan></text>
-      <text x="0" y="84" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  ██▀  ▓██▀░  ▄▄  ░▀██▓  ▀██  </tspan></text>
-      <text x="0" y="105" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  █▓  ▓█▀  ▄██████▄  ▀█▓  ▓█  </tspan></text>
-      <text x="0" y="126" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  █▓  █▓  ██▀ ░░ ▀██  ▓█  ▓█  </tspan></text>
-      <text x="0" y="147" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  █▓  █▓  █▓ ▓██▓ ▓█  ▓█  ▓█  </tspan></text>
-      <text x="0" y="168" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  █▓  █▓  █▓ ▀▀▀▀ ▓█  ▓█  ▓█  </tspan></text>
-      <text x="0" y="189" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  ▓█  ▓█▄  ▀██████▀  ▄█▓  █▓  </tspan></text>
-      <text x="0" y="210" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">   ▓█▄  ▀▓▄▄░░░░▄▄▓▀  ▄█▓   </tspan></text>
-      <text x="0" y="231" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">    ▀██▄   ▀▀████▀▀   ▄██    </tspan></text>
-      <text x="0" y="252" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">     ▀███▄░        ░▄███▀     </tspan></text>
-      <text x="0" y="273" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">       ▀▀████▓▓▓▓████▀▀       </tspan></text>
-      <text x="0" y="294" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">     ▄▓██▀▀        ▀▀██▓▄     </tspan></text>
-      <text x="0" y="315" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">   ▄██▀   &lt; DEV.EXE /&gt;   ▀██▄  </tspan></text>
-      <text x="0" y="336" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">  ██▓   01001000 01101001   ▓██ </tspan></text>
-      <text x="0" y="357" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">   ▀██▄                 ▄██▀   </tspan></text>
-      <text x="0" y="378" text-anchor="middle" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="11.5" font-weight="600" fill="url(#asciiGrad)"><tspan xml:space="preserve">     ▀▀███▓▄▄▄▄▄▄▄▓███▀▀      </tspan></text>
-    </g>
 
+<text x="54" y="62"
+      font-family="SFMono-Regular,Consolas,Menlo,monospace"
+      font-size="16"
+      font-weight="700"
+      fill="#22D3EE">// ANALYST MODE</text>
+
+<rect x="340" y="44"
+      width="110"
+      height="34"
+      rx="8"
+      fill="#101B30"
+      stroke="#22D3EE"/>
+
+<text x="395"
+      y="66"
+      text-anchor="middle"
+      font-family="SFMono-Regular,Consolas,Menlo,monospace"
+      font-size="14"
+      font-weight="700"
+      fill="#22D3EE">LIVE FEED</text>
+
+<circle cx="432"
+        cy="61"
+        r="4"
+        fill="#22D3EE"/>
+    
     <g transform="translate(252.0 527.0)" text-anchor="middle">
       <text x="0" y="0" font-family='SFMono-Regular,Consolas,Menlo,monospace' font-size="13" fill="#94A3B8">root@bhaskar:~$ <tspan fill="#F8FAFC">whoami</tspan></text>
       <rect x="82" y="-11" width="8" height="14" fill="#22D3EE"/>
