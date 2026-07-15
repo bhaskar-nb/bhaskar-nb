@@ -1,271 +1,605 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Nakka%20Bhaskar%20Gangadhar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20%26%20Dashboard%20Engineer&descAlignY=52&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Decisions;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Consulting-Minded+Dashboard+Design;Open+to+Data+Analyst+Roles" alt="Typing SVG" />
-
-<br/>
-
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Parul%20Institute%20of%20Engineering%20%26%20Technology-2022--2026-4C1D95?style=for-the-badge)
-![Location](https://img.shields.io/badge/Visakhapatnam,%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Tableau%20Portfolio-7C3AED?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bhaskar.nakka4980/vizzes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-nakka-43a701259/)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskar-nb)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar-nb&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&color=8b5cf6&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?style=for-the-badge&color=a78bfa&labelColor=1e1b2e)
-
-</div>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-👋-4C1D95?style=flat-square"/> About Me
-
-I'm a final-year **Computer Science Engineering** student with hands-on experience in **SQL, Python, Excel, and Tableau**, built through academic projects and structured self-study. I specialize in **data cleaning, exploratory data analysis, and interactive dashboard development** — turning raw, messy datasets into insights a business stakeholder can actually act on.
-
-My process is deliberately **consulting-minded**: before opening any tool, I map out the business questions, the stakeholder universe, and the KPIs that matter — then design the dashboard architecture around them. I'm currently deepening this skill set through a structured analytics roadmap covering advanced SQL, statistics, and Power BI data modeling.
-
-Outside of analytics, I enjoy building creative, interactive front-end experiences as a side project — a way to keep experimenting with code beyond the dashboard.
-
-**🎯 Open To:**
-- Entry-level **Data Analyst** / **Business Intelligence Analyst** roles
-- Freelance dashboard & reporting projects (Tableau / Power BI)
-- Collaboration on open data-analytics tooling and portfolio-grade projects
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🛠️-6D28D9?style=flat-square"/> Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-
-**Data Analysis Libraries**
-
-![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
-
-**Business Intelligence & Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-8B5CF6?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-A78BFA?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-6D28D9?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Database & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-📊-7C3AED?style=flat-square"/> Data Analytics & BI Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Data Cleaning & Preparation | ⭐⭐⭐⭐☆ | Handling missing values, deduplication, type correction, and building calculated fields on raw CSV datasets |
-| Exploratory Data Analysis | ⭐⭐⭐⭐☆ | Pandas/NumPy-driven profiling to surface trends, outliers, and data quality issues before visualization |
-| Dashboard Development — Tableau | ⭐⭐⭐⭐☆ | Multi-layer dashboard architecture, interactive filters, KPI design for stakeholder-specific views |
-| Dashboard Development — Power BI | ⭐⭐⭐☆☆ | Data modeling and report building, currently deepening through structured coursework |
-| SQL & Relational Databases | ⭐⭐⭐☆☆ | Query writing and data extraction against MySQL, expanding into advanced SQL and statistics |
-| Business & Stakeholder Analysis | ⭐⭐⭐⭐☆ | Mapping business questions and KPIs to dashboard design before tool execution |
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🚀-8B5CF6?style=flat-square"/> Featured Projects
-
-<details>
-<summary><b>📈 Sales Performance Dashboard | Tableau</b></summary>
-<br>
-
-Interactive Tableau dashboard analyzing sales performance across products, categories, regions, and time using key business KPIs — built to surface trends, profitability, and top-performing products for data-driven decisions.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Tableau, Excel/CSV data source |
-| Focus | Product, category, regional, and time-series sales analysis |
-| Key Features | Dynamic visualizations, interactive filters, KPI cards |
-| Impact | Surfaces profitability and high-performing products for decision-making |
-| Repository | [GitHub](https://github.com/bhaskar-nb/sales-performance-dashboard) · [Tableau Public]https://public.tableau.com/app/profile/bhaskar.nakka4980/viz/SalesDashboardProject_17823218142750/SalesDashboard |
-
-</details>
-
-<details>
-<summary><b>👥 HR Analytics Dashboard | Tableau</b></summary>
-<br>
-
-HR analytics dashboard monitoring employee demographics, attrition, departmental performance, and workforce distribution — built with interactive charts and filters to support HR reporting.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Tableau |
-| Focus | Employee demographics, attrition, departmental workforce trends |
-| Key Features | Interactive charts and filters for workforce analysis |
-| Impact | Supports HR reporting through clear, actionable visualizations |
-| Repository | [GitHub](https://github.com/bhaskar-nb/hr-analytics-dashboard) · [Tableau Public]https://public.tableau.com/app/profile/bhaskar.nakka4980/viz/HRDashboard_17824941977350/HRSummary_1 |
-
-</details>
-
-<details>
-<summary><b>💰 Startup Funding Analysis Dashboard | Tableau</b></summary>
-<br>
-
-Tableau dashboard analyzing startup funding across industries, cities, investors, and investment types using historical funding data, developed to identify funding trends and leading startup ecosystems.
-
-| Aspect | Detail |
-|---|---|
-| Stack | Tableau, historical funding dataset |
-| Focus | Industry, city, investor, and investment-type funding trends |
-| Key Features | Interactive visualizations for pattern and ecosystem analysis |
-| Impact | Identifies investment patterns and leading startup ecosystems |
-| Repository | [GitHub](https://github.com/bhaskar-nb/startup-funding-dashboard) · [Tableau Public]https://public.tableau.com/app/profile/bhaskar.nakka4980/vizzes |
-
-</details>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-💼-4C1D95?style=flat-square"/> Practical Experience & Industry Simulations
-
-**Data Analytics Job Simulation** — *Deloitte Australia (via Forage)*
-`2026`
-- Completed a virtual job simulation modeled on Deloitte Australia's data analytics workflows
-- Practiced structuring analysis and communicating findings in a business-consulting context
-- `Data Analysis` `Business Communication` `Forage`
-
-**Data Visualisation: Empowering Business with Effective Insights** — *Tata Group (via Forage)*
-`2026`
-- Completed Tata's virtual program on using data visualization to drive business insight
-- Applied visualization principles to translate raw data into stakeholder-ready insight
-- `Data Visualization` `Business Insight` `Forage`
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🏆-6D28D9?style=flat-square"/> Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Deloitte Australia Data Analytics Job Simulation | Completed, 2026 — Forage Virtual Experience |
-| Tata Data Visualisation Program | Completed, 2026 — Forage Virtual Experience |
-| Portfolio Dashboards Delivered | 3 end-to-end Tableau dashboards spanning sales, HR, and startup funding analytics |
-
-</div>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-📜-7C3AED?style=flat-square"/> Certifications
-
-**Tata Group**
-
-![Tata](https://img.shields.io/badge/Data%20Visualisation%3A%20Empowering%20Business%20with%20Effective%20Insights-4C1D95?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Deloitte Australia**
-
-![Deloitte](https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
-
-*Both completed via [Forage](https://www.theforage.com/) virtual experience programs, 2026.*
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-💻-8B5CF6?style=flat-square"/> Coding Profiles
-
-> _Add your usernames below if you maintain these profiles — remove any platform you don't use._
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhaskar_nakka/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR-USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR-USERNAME)
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-📈-4C1D95?style=flat-square"/> GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskar-nb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-nb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="34%"/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-
-</div>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🏅-6D28D9?style=flat-square"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nb&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-📊-7C3AED?style=flat-square"/> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-nb&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🐍-8B5CF6?style=flat-square"/> Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bhaskar-nb/bhaskar-nb/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> _Requires the [Platane/snk](https://github.com/Platane/snk) GitHub Action set up on your profile repo to generate this asset._
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-🎯-4C1D95?style=flat-square"/> Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced SQL & Statistics for Analytics
-    - Power BI Data Modeling & DAX
-  building:
-    - Indian Startup Funding Intelligence Platform (Tableau, consulting-grade design)
-  exploring:
-    - Interactive 3D web experiences (Three.js / WebGL)
-  open_to:
-    - Entry-level Data Analyst roles
-    - Freelance BI dashboard & reporting projects
-```
-
----
-
-## <img width="26" src="https://img.shields.io/badge/-📬-6D28D9?style=flat-square"/> Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-nakka-43a701259/)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskar-nb)
-[![Tableau](https://img.shields.io/badge/Tableau%20Public-8B5CF6?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bhaskar.nakka4980/vizzes)
-
-</div>
-
----
-
-<div align="center">
-
-*"Good dashboards don't just show data — they answer the question the business was actually asking."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
-
-</div>
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#22D3EE;#22D3EE" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#22D3EE;#7C3AED;#22D3EE" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="rotate"
+        values="0 0.5 0.5; 360 0.5 0.5" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1.2 0; 1.2 0; -1.2 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="glassHi" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,.06)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,.06)" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="noiseFilter" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix in="noise" type="matrix"
+        values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/>
+    </filter>
+
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1180" height="610" rx="26"/>
+    </clipPath>
+    <clipPath id="leftClip">
+      <rect x="28" y="28" width="448" height="554" rx="20"/>
+    </clipPath>
+    <clipPath id="rightClip">
+      <rect x="504" y="28" width="648" height="554" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'SFMono-Regular','JetBrains Mono','Fira Code',Consolas,monospace; }
+    .pill { transition: all .25s ease; }
+    .pill:hover .pillRect { filter: url(#glow); }
+    .pill:hover { transform: translateY(-2px) scale(1.06); }
+    .social:hover circle { filter: url(#glow); }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+
+  <rect x="0" y="0" width="1180" height="610" fill="#030712"/>
+
+  <g opacity="0.9">
+    <circle cx="120" cy="90" r="240" fill="url(#glowA)">
+      <animate attributeName="cx" values="120;180;90;120" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;140;60;90" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="510" r="260" fill="url(#glowC)">
+      <animate attributeName="cx" values="1040;980;1080;1040" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="510;450;550;510" dur="17s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="80" r="200" fill="url(#glowB)">
+      <animate attributeName="cy" values="80;140;80" dur="13s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="0" y="0" width="1180" height="610" filter="url(#noiseFilter)" opacity="0.035"/>
+
+  <g>
+    <circle cx="60" cy="520" r="2.2" fill="#7C3AED" opacity="0.55">
+      <animate attributeName="cy" values="520;494;520" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="60" r="1.6" fill="#22D3EE" opacity="0.55">
+      <animate attributeName="cy" values="60;34;60" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="500" r="2.4" fill="#10B981" opacity="0.55">
+      <animate attributeName="cy" values="500;474;500" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="120" r="1.8" fill="#7C3AED" opacity="0.55">
+      <animate attributeName="cy" values="120;94;120" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="30" r="1.4" fill="#22D3EE" opacity="0.55">
+      <animate attributeName="cy" values="30;4;30" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="560" r="2.0" fill="#10B981" opacity="0.55">
+      <animate attributeName="cy" values="560;534;560" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="480" r="1.5" fill="#7C3AED" opacity="0.55">
+      <animate attributeName="cy" values="480;454;480" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="300" r="1.7" fill="#22D3EE" opacity="0.55">
+      <animate attributeName="cy" values="300;274;300" dur="9.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="9.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="300" r="1.3" fill="#10B981" opacity="0.55">
+      <animate attributeName="cy" values="300;274;300" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.75;0.15" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+
+  <g clip-path="url(#leftClip)">
+    <rect x="28" y="28" width="448" height="554" fill="#0F172A"/>
+    <rect x="28" y="28" width="448" height="554" fill="url(#glassHi)" opacity="0.5"/>
+    <rect x="28" y="28" width="448" height="249.3" fill="url(#glowA)" opacity="0.25"/>
+
+    <rect x="28" y="28" width="448" height="46" fill="url(#scanGrad)">
+      <animate attributeName="y" values="28;536;28" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <g transform="translate(252.0 98.0)">
+      <animateTransform attributeName="transform" type="translate"
+        additive="sum" values="0 0; 0 -6; 0 0" dur="5.5s" repeatCount="indefinite"/>
+      <text x="0" y="0" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">        ░▒▓█████████▓▒░        </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;0.039"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="21" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">      ▓███▀▀░░░░░░▀▀███▓      </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.020;0.059"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="42" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">    ▓██▀   ░▒▓▓▓▓▒░   ▀██▓    </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.040;0.079"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="63" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">   ██▀  ▒▓████████▓▒  ▀██   </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.060;0.099"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="84" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  ██▀  ▓██▀░  ▄▄  ░▀██▓  ▀██  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.080;0.119"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="105" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  █▓  ▓█▀  ▄██████▄  ▀█▓  ▓█  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.100;0.139"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="126" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  █▓  █▓  ██▀ ░░ ▀██  ▓█  ▓█  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.120;0.159"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="147" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  █▓  █▓  █▓ ▓██▓ ▓█  ▓█  ▓█  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.140;0.179"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="168" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  █▓  █▓  █▓ ▀▀▀▀ ▓█  ▓█  ▓█  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.160;0.199"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="189" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  ▓█  ▓█▄  ▀██████▀  ▄█▓  █▓  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.180;0.219"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="210" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">   ▓█▄  ▀▓▄▄░░░░▄▄▓▀  ▄█▓   </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.200;0.239"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="231" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">    ▀██▄   ▀▀████▀▀   ▄██    </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.220;0.259"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="252" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">     ▀███▄░        ░▄███▀     </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.240;0.279"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="273" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">       ▀▀████▓▓▓▓████▀▀       </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.260;0.299"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="294" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">     ▄▓██▀▀        ▀▀██▓▄     </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.280;0.319"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="315" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">   ▄██▀   &lt; DEV.EXE /&gt;   ▀██▄  </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.300;0.339"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="336" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">  ██▓   01001000 01101001   ▓██ </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.320;0.359"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="357" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">   ▀██▄                 ▄██▀   </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.340;0.379"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+      <text x="0" y="378" text-anchor="middle" font-size="11.5" font-weight="600"
+            fill="url(#asciiGrad)" filter="url(#glowSoft)" opacity="0">
+        <tspan xml:space="preserve">     ▀▀███▓▄▄▄▄▄▄▄▓███▀▀      </tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.360;0.399"
+                 dur="9s" begin="0s" fill="freeze"/>
+      </text>
+    </g>
+
+    <g transform="translate(252.0 527.0)" text-anchor="middle">
+      <text x="0" y="0" font-size="13" fill="#94A3B8" opacity="0.9">root@bhaskar:~$ <tspan fill="#F8FAFC">whoami</tspan></text>
+      <rect x="82" y="-11" width="8" height="14" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <rect x="28" y="28" width="448" height="554" rx="20" fill="none"
+        stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+
+
+  <g clip-path="url(#rightClip)">
+    <rect x="504" y="28" width="648" height="554" fill="#111C33"/>
+    <rect x="504" y="28" width="648" height="554" fill="url(#glassHi)" opacity="0.35"/>
+
+    <rect x="504" y="28" width="648" height="34" fill="#0F172A"/>
+    <line x1="504" y1="62" x2="1152" y2="62" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+    <circle cx="526" cy="45.0" r="6" fill="#FF5F56"/>
+    <circle cx="548" cy="45.0" r="6" fill="#FFBD2E"/>
+    <circle cx="570" cy="45.0" r="6" fill="#27C93F"/>
+    <text x="828.0" y="49.5" text-anchor="middle" font-size="11.5" fill="#94A3B8">bhaskar — zsh — 90x30</text>
+
+    <g>
+      <text x="534" y="92" font-size="21" font-weight="700" fill="#F8FAFC" opacity="0">
+        Hi 👋
+        <animate attributeName="opacity" values="0;1" begin="0.1s" dur="0.6s" fill="freeze"/>
+      </text>
+      <text x="534" y="122" font-size="21" font-weight="700" opacity="0">
+        <tspan fill="#94A3B8">I'm </tspan><tspan fill="url(#accentGrad)">Bhaskar Nakka</tspan>
+        <animate attributeName="opacity" values="0;1" begin="0.6s" dur="0.6s" fill="freeze"/>
+      </text>
+    </g>
+    <g>
+      <text x="534" y="152" font-size="15" fill="#94A3B8">$</text>
+
+      <clipPath id="typeClip0">
+        <rect x="0" y="0" height="24" width="0">
+          <animate attributeName="width" values="0;107;107;107;0;0"
+                   keyTimes="0;0.375;0.75;0.875;0.9;1"
+                   dur="20.0s" begin="0.0s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#typeClip0)">
+        <text x="550" y="152" font-size="15" font-weight="600" fill="url(#accentGrad)">Data Analyst</text>
+      </g>
+
+      <clipPath id="typeClip1">
+        <rect x="0" y="0" height="24" width="0">
+          <animate attributeName="width" values="0;116;116;116;0;0"
+                   keyTimes="0;0.375;0.75;0.875;0.9;1"
+                   dur="20.0s" begin="4.0s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#typeClip1)">
+        <text x="550" y="152" font-size="15" font-weight="600" fill="url(#accentGrad)">SQL Developer</text>
+      </g>
+
+      <clipPath id="typeClip2">
+        <rect x="0" y="0" height="24" width="0">
+          <animate attributeName="width" values="0;142;142;142;0;0"
+                   keyTimes="0;0.375;0.75;0.875;0.9;1"
+                   dur="20.0s" begin="8.0s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#typeClip2)">
+        <text x="550" y="152" font-size="15" font-weight="600" fill="url(#accentGrad)">Python Developer</text>
+      </g>
+
+      <clipPath id="typeClip3">
+        <rect x="0" y="0" height="24" width="0">
+          <animate attributeName="width" values="0;236;236;236;0;0"
+                   keyTimes="0;0.375;0.75;0.875;0.9;1"
+                   dur="20.0s" begin="12.0s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#typeClip3)">
+        <text x="550" y="152" font-size="15" font-weight="600" fill="url(#accentGrad)">Tableau Dashboard Developer</text>
+      </g>
+
+      <clipPath id="typeClip4">
+        <rect x="0" y="0" height="24" width="0">
+          <animate attributeName="width" values="0;279;279;279;0;0"
+                   keyTimes="0;0.375;0.75;0.875;0.9;1"
+                   dur="20.0s" begin="16.0s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <g clip-path="url(#typeClip4)">
+        <text x="550" y="152" font-size="15" font-weight="600" fill="url(#accentGrad)">Business Intelligence Enthusiast</text>
+      </g>
+
+      <rect x="550" y="136" width="8" height="19" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="550" dur="20.0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="2.40s" dur="0.5s" fill="freeze"/>
+        <rect x="520" y="179" width="3" height="16" fill="url(#accentGrad)"/>
+        <text x="534" y="192" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">LOCATION</text>
+        <text x="534" y="208" font-size="12.6" fill="#F8FAFC">Visakhapatnam, India</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="2.75s" dur="0.5s" fill="freeze"/>
+        <rect x="520" y="216" width="3" height="16" fill="url(#accentGrad)"/>
+        <text x="534" y="229" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">EDUCATION</text>
+        <text x="534" y="245" font-size="12.6" fill="#F8FAFC">B.Tech in Computer Science Engineering</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="3.10s" dur="0.5s" fill="freeze"/>
+        <rect x="520" y="253" width="3" height="16" fill="url(#accentGrad)"/>
+        <text x="534" y="266" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">CURRENT FOCUS</text>
+        <text x="534" y="282" font-size="12.6" fill="#F8FAFC">Building Data Analytics Projects with SQL, Python, Tableau &amp; Power BI</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="3.45s" dur="0.5s" fill="freeze"/>
+        <rect x="520" y="290" width="3" height="16" fill="url(#accentGrad)"/>
+        <text x="534" y="303" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">PORTFOLIO</text>
+        <text x="534" y="319" font-size="12.6" fill="#F8FAFC">portfolio-sand-one-44.vercel.app</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="3.80s" dur="0.5s" fill="freeze"/>
+        <rect x="520" y="327" width="3" height="16" fill="url(#accentGrad)"/>
+        <text x="534" y="340" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">EMAIL</text>
+        <text x="534" y="356" font-size="12.6" fill="#F8FAFC">bn7740401@gmail.com</text>
+      </g>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="4.6s" dur="0.6s" fill="freeze"/>
+      <text x="534" y="391" font-size="10.5" letter-spacing="1.3" fill="#94A3B8">SKILLS</text>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="4.90s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="534.0" y="391.0" width="47.6" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="0.00s" repeatCount="indefinite"/>
+        </rect>
+        <text x="557.8" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">SQL</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="4.96s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="589.6" y="391.0" width="69.2" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="0.20s" repeatCount="indefinite"/>
+        </rect>
+        <text x="624.2" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Python</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.02s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="666.8" y="391.0" width="62.0" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="0.40s" repeatCount="indefinite"/>
+        </rect>
+        <text x="697.8" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Excel</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.08s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="736.8" y="391.0" width="76.4" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="0.60s" repeatCount="indefinite"/>
+        </rect>
+        <text x="775.0" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Tableau</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.14s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="821.2" y="391.0" width="83.6" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="0.80s" repeatCount="indefinite"/>
+        </rect>
+        <text x="863.0" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Power BI</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.20s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="912.8" y="391.0" width="69.2" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="1.00s" repeatCount="indefinite"/>
+        </rect>
+        <text x="947.4" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Pandas</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.26s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="990.0" y="391.0" width="62.0" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="1.20s" repeatCount="indefinite"/>
+        </rect>
+        <text x="1021.0" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">NumPy</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.32s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="1060.0" y="391.0" width="62.0" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="1.40s" repeatCount="indefinite"/>
+        </rect>
+        <text x="1091.0" y="408.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">MySQL</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.38s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="534.0" y="423.0" width="98.0" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="1.60s" repeatCount="indefinite"/>
+        </rect>
+        <text x="583.0" y="440.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">PostgreSQL</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.44s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="640.0" y="423.0" width="47.6" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="1.80s" repeatCount="indefinite"/>
+        </rect>
+        <text x="663.8" y="440.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">Git</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.50s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="695.6" y="423.0" width="69.2" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="2.00s" repeatCount="indefinite"/>
+        </rect>
+        <text x="730.2" y="440.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">GitHub</text>
+      </g>
+
+      <g class="pill" opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="5.56s" dur="0.4s" fill="freeze"/>
+        <rect class="pillRect" x="772.8" y="423.0" width="76.4" height="24" rx="13"
+              fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                   dur="5s" begin="2.20s" repeatCount="indefinite"/>
+        </rect>
+        <text x="811.0" y="440.0" text-anchor="middle" font-size="11.5" font-weight="600" fill="#F8FAFC">VS Code</text>
+      </g>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="5.8s" dur="0.6s" fill="freeze"/>
+      <line x1="534" y1="475" x2="1122" y2="475" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+
+      <a xlink:href="https://github.com/bhaskar-nb" target="_blank">
+        <g class="social" transform="translate(549.0 508.0)">
+          <circle r="15" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+            <animate attributeName="stroke" values="rgba(255,255,255,.12);#7C3AED;rgba(255,255,255,.12)"
+                     dur="4.5s" begin="0.00s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="4.5" text-anchor="middle" font-size="11" font-weight="700" fill="url(#accentGrad)">GH</text>
+        </g>
+      </a>
+      <text x="574.0" y="512.0" font-size="11.5" fill="#94A3B8">GitHub</text>
+
+      <a xlink:href="https://www.linkedin.com/in/bhaskar-nakka-43a701259" target="_blank">
+        <g class="social" transform="translate(654.6 508.0)">
+          <circle r="15" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+            <animate attributeName="stroke" values="rgba(255,255,255,.12);#22D3EE;rgba(255,255,255,.12)"
+                     dur="4.5s" begin="0.30s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="4.5" text-anchor="middle" font-size="11" font-weight="700" fill="url(#accentGrad)">in</text>
+        </g>
+      </a>
+      <text x="679.6" y="512.0" font-size="11.5" fill="#94A3B8">LinkedIn</text>
+
+      <a xlink:href="https://public.tableau.com/app/profile/bhaskar.nakka4980/vizzes" target="_blank">
+        <g class="social" transform="translate(773.4 508.0)">
+          <circle r="15" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+            <animate attributeName="stroke" values="rgba(255,255,255,.12);#10B981;rgba(255,255,255,.12)"
+                     dur="4.5s" begin="0.60s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="4.5" text-anchor="middle" font-size="11" font-weight="700" fill="url(#accentGrad)">T</text>
+        </g>
+      </a>
+      <text x="798.4" y="512.0" font-size="11.5" fill="#94A3B8">Tableau</text>
+
+      <a xlink:href="https://portfolio-sand-one-44.vercel.app/" target="_blank">
+        <g class="social" transform="translate(885.6 508.0)">
+          <circle r="15" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.12)" stroke-width="1">
+            <animate attributeName="stroke" values="rgba(255,255,255,.12);#7C3AED;rgba(255,255,255,.12)"
+                     dur="4.5s" begin="0.90s" repeatCount="indefinite"/>
+          </circle>
+          <text x="0" y="4.5" text-anchor="middle" font-size="11" font-weight="700" fill="url(#accentGrad)">://</text>
+        </g>
+      </a>
+      <text x="910.6" y="512.0" font-size="11.5" fill="#94A3B8">Portfolio</text>
+    </g>
+  </g>
+  <rect x="504" y="28" width="648" height="554" rx="20" fill="none"
+        stroke="rgba(255,255,255,.08)" stroke-width="1"/>
+
+  </g>
+
+  <rect x="1.5" y="1.5" width="1177" height="607" rx="25" fill="none"
+        stroke="#1E293B" stroke-width="1.4"/>
+  <rect x="1.5" y="1.5" width="1177" height="607" rx="25" fill="none"
+        stroke="url(#borderShimmer)" stroke-width="1.6"/>
+
+</svg>
