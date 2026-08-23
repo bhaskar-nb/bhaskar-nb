@@ -1,57 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0A0A0A,100:0A0A0A&amp;height=180&amp;section=header&amp;text=NAKKA%20BHASKAR%20GANGADHAR&amp;fontSize=42&amp;fontColor=00FF9C&amp;fontAlignY=45&amp;desc=Data%20Analyst%20%7C%20Dashboard%20%26%20Insights%20Builder&amp;descSize=18&amp;descColor=00FF9C&amp;descAlignY=65&amp;animation=fadeIn" width="100%"/>
+# Bhaskar Nakka
 
-</div>
+**I build dashboards that turn messy business data into decisions.**
 
-### `~/whoami --typing`
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&background=0A0A0A00&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%7C+Fresher;SQL+%2B+Python+%2B+Tableau+%2B+Power+BI;Building+dashboards+that+tell+a+story;Currently+learning%3A+AWS+Cloud;Open+to+Remote+%2F+Onsite+%2F+Hybrid+roles)](https://git.io/typing-svg)
-
-</div>
-
-### `~/info --badges`
-
-<div align="center">
-
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-000000?style=flat-square&labelColor=0A0A0A&color=00FF9C)
-![University](https://img.shields.io/badge/Parul%20Institute%20of%20Engineering%20%26%20Technology-000000?style=flat-square&labelColor=0A0A0A&color=00FF9C)
-![Location](https://img.shields.io/badge/Visakhapatnam%2C%20India-000000?style=flat-square&labelColor=0A0A0A&color=00FF9C)
-
-</div>
-
-### `~/connect --links`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0A0A0A&color=00FF9C)](https://portfolio-sand-one-44.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A&color=00FF9C)](https://www.linkedin.com/in/bhaskar-nakka/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A&color=00FF9C)](mailto:bn7740401@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0A0A0A&color=00FF9C)](https://github.com/bhaskar-nb)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar-nb&amp;color=00FF9C&amp;style=flat-square&amp;label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/bhaskar-nb?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0A0A0A&amp;color=00FF9C)
-![Stars](https://img.shields.io/github/stars/bhaskar-nb?style=flat-square&amp;label=STARS&amp;labelColor=0A0A0A&amp;color=00FF9C)
+![Status](https://img.shields.io/badge/Status-Final%20Year%20%C2%B7%20Graduating%202026-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
+![Location](https://img.shields.io/badge/Visakhapatnam-India-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
 
 </div>
 
 ---
 
-### `~/about --bio`
+### Who I build for
 
-Computer Science graduate specializing in turning raw, messy data into clear, interactive Tableau dashboards. I focus on data cleaning, exploratory data analysis, and visual storytelling that helps teams make faster decisions — currently expanding into AWS to bring cloud data pipelines into the mix.
+Sales leads who are tired of scrolling spreadsheets to answer "what's working this quarter." HR teams that need to see attrition and hiring patterns in one view instead of ten. Analysts who'd rather explore a dashboard than a raw CSV. I take messy datasets, clean them, and turn them into Tableau dashboards a non-technical stakeholder can open, understand, and actually use.
 
-```bash
-$ cat profile.sh
+🔗 Portfolio: [portfolio-sand-one-44.vercel.app](https://portfolio-sand-one-44.vercel.app/)
 
-ROLE      : Data Analyst (Fresher)
-DOMAIN    : Sales / HR / Startup Funding Analytics
-STACK     : Python, SQL, Tableau, Power BI, Excel
-LEARNING  : AWS Cloud
-OPEN_TO   : Data Analyst | BI Developer | Business Analyst (Remote / Onsite / Hybrid)
+---
+
+### What I've built
+
+- **Sales Performance** — profitability, quantity, and category trends, for sales leads who need to spot what's winning and what's dragging, fast → [sales-dashboard](https://github.com/bhaskar-nb/sales-dashboard)
+- **HR Analytics** — workforce demographics, hiring, attrition, and compensation, for HR teams tracking where people are joining, leaving, and getting paid → [hr-dashboard](https://github.com/bhaskar-nb/hr-dashboard)
+- **EV Adoption (US)** — manufacturer, vehicle type, and geographic adoption trends, for anyone tracking the EV market shift → [ev-dashboard](https://github.com/bhaskar-nb/ev-dashboard)
+- **Global Coffee Production** — yield and geographic production trends, for teams studying commodity supply chains → [coffee-dashboard](https://github.com/bhaskar-nb/coffee-dashboard)
+- **Disaster Impact** — human and economic impact of global disaster events, for analysts who need country-level patterns at a glance → [disaster-dashboard](https://github.com/bhaskar-nb/disaster-dashboard)
+
+Currently building a global employment & unemployment dashboard focused on the software/IT industry.
+
+---
+
+### Tech I work with
+
+- **Querying & analysis:** SQL, Python (Pandas)
+- **Visualization:** Tableau, Power BI, Excel
+- **Cloud:** AWS — VPC design, EC2, security groups
+- **Workflow:** Git & GitHub for version control on every project
+
+---
+
+<div align="center">
+
+### Let's talk
+
+If you're hiring for a Data Analyst or BI role, or just want to talk about a dataset, email is the fastest way to reach me.
+
+**📩 [bn7740401@gmail.com](mailto:bn7740401@gmail.com)**
+
+</div>
