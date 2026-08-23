@@ -2,51 +2,48 @@
 
 # Bhaskar Nakka
 
-**I build dashboards that turn messy business data into decisions.**
+**Data Analyst building dashboards and data products that turn messy data into clear business decisions.**
 
-![Status](https://img.shields.io/badge/Status-Final%20Year%20%C2%B7%20Graduating%202026-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
-![Location](https://img.shields.io/badge/Visakhapatnam-India-0A0A0A?style=flat-square&labelColor=0A0A0A&color=00FF9C)
+[Portfolio](https://portfolio-sand-one-44.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bhaskar-nakka-43a701259/)
 
 </div>
 
 ---
+
+### What I build
+
+I build practical analytics projects that help teams understand performance, spot trends, and make better decisions without digging through raw spreadsheets.
+
+My work is mainly focused on **business intelligence and data analysis** — taking raw datasets, cleaning and analyzing them, and turning the results into interactive dashboards that are easy for non-technical users to explore.
 
 ### Who I build for
 
-Sales leads who are tired of scrolling spreadsheets to answer "what's working this quarter." HR teams that need to see attrition and hiring patterns in one view instead of ten. Analysts who'd rather explore a dashboard than a raw CSV. I take messy datasets, clean them, and turn them into Tableau dashboards a non-technical stakeholder can open, understand, and actually use.
+I build for:
 
-🔗 Portfolio: [portfolio-sand-one-44.vercel.app](https://portfolio-sand-one-44.vercel.app/)
+- **Sales teams** that need a faster view of revenue, profit, and product performance.
+- **HR teams** that want to understand hiring, workforce, attrition, and compensation patterns.
+- **Business and market analysts** who need trends and comparisons surfaced from large datasets.
+- **Decision-makers** who need useful answers from data, not just charts.
 
----
+### Selected work
 
-### What I've built
+- **Sales Performance Dashboard** — tracks sales, profit, quantity, year-over-year performance, and product profitability for business teams. [View project](https://github.com/bhaskar-nb/sales-dashboard)
+- **HR Analytics Dashboard** — explores workforce demographics, hiring, attrition, and compensation for HR analysis. [View project](https://github.com/bhaskar-nb/hr-dashboard)
+- **EV Adoption Dashboard** — analyzes electric vehicle registrations across manufacturers, vehicle types, models, states, and model years. [View project](https://github.com/bhaskar-nb/ev-dashboard)
+- **Disaster Impact Dashboard** — explores human and economic impact across global disaster events and countries. [View project](https://github.com/bhaskar-nb/disaster-dashboard)
+- **Coffee Production Dashboard** — analyzes production and geographic trends across coffee-producing regions. [View project](https://github.com/bhaskar-nb/coffee-dashboard)
 
-- **Sales Performance** — profitability, quantity, and category trends, for sales leads who need to spot what's winning and what's dragging, fast → [sales-dashboard](https://github.com/bhaskar-nb/sales-dashboard)
-- **HR Analytics** — workforce demographics, hiring, attrition, and compensation, for HR teams tracking where people are joining, leaving, and getting paid → [hr-dashboard](https://github.com/bhaskar-nb/hr-dashboard)
-- **EV Adoption (US)** — manufacturer, vehicle type, and geographic adoption trends, for anyone tracking the EV market shift → [ev-dashboard](https://github.com/bhaskar-nb/ev-dashboard)
-- **Global Coffee Production** — yield and geographic production trends, for teams studying commodity supply chains → [coffee-dashboard](https://github.com/bhaskar-nb/coffee-dashboard)
-- **Disaster Impact** — human and economic impact of global disaster events, for analysts who need country-level patterns at a glance → [disaster-dashboard](https://github.com/bhaskar-nb/disaster-dashboard)
+### Tech stack
 
-Currently building a global employment & unemployment dashboard focused on the software/IT industry.
+- **Analysis:** SQL · Python · Pandas
+- **BI & Visualization:** Tableau · Power BI · Excel
+- **Cloud:** AWS · EC2 · VPC · Security Groups
+- **Tools:** Git · GitHub
 
----
+### Currently
 
-### Tech I work with
+Building more portfolio projects around **business analytics, dashboards, and data-driven decision-making** while sharpening my skills in SQL, Python, and BI tools.
 
-- **Querying & analysis:** SQL, Python (Pandas)
-- **Visualization:** Tableau, Power BI, Excel
-- **Cloud:** AWS — VPC design, EC2, security groups
-- **Workflow:** Git & GitHub for version control on every project
+### Contact
 
----
-
-<div align="center">
-
-### Let's talk
-
-If you're hiring for a Data Analyst or BI role, or just want to talk about a dataset, email is the fastest way to reach me.
-
-**📩 [bn7740401@gmail.com](mailto:bn7740401@gmail.com)**
-
-</div>
+For Data Analyst / BI opportunities or project discussions: **[bn7740401@gmail.com](mailto:bn7740401@gmail.com)**
