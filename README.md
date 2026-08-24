@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.png">
+    <img src="header-light.png" alt="Bhaskar Nakka — Data Analyst" width="100%">
+  </picture>
+</p>
+
 <h1 align="center">Hi, I'm Bhaskar 👋</h1>
 
 <p align="center">
