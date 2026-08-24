@@ -19,11 +19,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub streak card
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           path: profile/streak.svg
           options: "user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=79C0FF&sideLabels=79C0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&disable_animations=true"
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify generated card
+        run: test -s profile/streak.svg
 
       - name: Commit streak card
         run: |
