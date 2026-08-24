@@ -37,7 +37,7 @@ I'm an aspiring **Data Analyst** focused on using data to answer business questi
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="chibi-analyst.png" width="220" alt="Bhaskar chibi character">
+  <img src="chibi-analyst.svg" width="240" alt="Bhaskar chibi character">
 </td>
 </tr>
 </table>
