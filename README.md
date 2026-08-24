@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="header-light.png">
-    <img src="header-light.png" alt="Bhaskar Nakka — Data Analyst" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.png?v=2">
+    <img src="header-light.png?v=2" alt="Bhaskar Nakka — Data Analyst" width="100%">
   </picture>
 </p>
 
