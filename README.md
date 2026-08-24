@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=190&section=header&text=Bhaskar%20Nakka&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Bhaskar Nakka"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+    <img src="header-light.png" alt="Bhaskar Nakka — Data Analyst" width="100%"/>
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Bhaskar 👋</h1>
