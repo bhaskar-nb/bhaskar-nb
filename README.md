@@ -38,13 +38,7 @@ I'm an aspiring **Data Analyst** focused on using data to answer business questi
 </td>
 <td width="32%" align="center" valign="middle">
 
-<table align="center" border="1" cellpadding="10" cellspacing="0">
-<tr>
-<td align="center">
 <img src="chibi-analyst.png" width="220" alt="Bhaskar chibi data analyst character">
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
