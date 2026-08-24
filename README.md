@@ -127,7 +127,7 @@ Analysis of **15,090 disaster events**, human impact, affected populations, and 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/bhaskar-nb/bhaskar-nb/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/bhaskar-nb/bhaskar-nb/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake">
 </p>
 
 ## 🌐 Let's Connect
