@@ -22,6 +22,10 @@
 
 ## 👨‍💻 About Me
 
+<table align="center">
+<tr>
+<td width="68%" valign="top">
+
 I'm an aspiring **Data Analyst** focused on using data to answer business questions, uncover patterns, and build clear dashboards that support better decisions.
 
 - 📊 Focused on **data analysis, business intelligence, KPIs, and data visualization**
@@ -30,6 +34,13 @@ I'm an aspiring **Data Analyst** focused on using data to answer business questi
 - 📈 Building dashboards with **Tableau, Power BI, and Excel**
 - 💼 Completed a **Data Analyst Internship at EduExpose**
 - 🚀 Building a portfolio of practical analytics projects
+
+</td>
+<td width="32%" align="center" valign="middle">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="170" alt="Data Analyst illustration">
+</td>
+</tr>
+</table>
 
 ## 🛠️ Skills & Tools
 
