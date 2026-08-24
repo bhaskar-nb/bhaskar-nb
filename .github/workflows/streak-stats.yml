@@ -1,0 +1,19 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          path: profile/streak.svg
+          options: "theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=79C0FF&sideLabels=79C0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
