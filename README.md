@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Bhaskar 👋</h1>
+<h1 align="center">Hi, I'm Bhaskar Gangadhar👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Aspiring+Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Business+Insights;Building+Analytics+Projects" alt="Typing introduction">
