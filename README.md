@@ -13,27 +13,25 @@
 </p>
 
 <p align="center">
-  I build practical analytics solutions that turn raw data into clear insights,
-  useful dashboards, and better business decisions.
+  I build analytics dashboards and data-driven projects that help teams
+  understand performance, uncover trends, and make better decisions.
 </p>
 
 ---
 
 ## 👨‍💻 What I Build
 
-I build **data analytics and business intelligence projects** for teams that need to understand their data and make better decisions.
+I build **data analytics and business intelligence projects** for teams that need to turn raw data into clear, useful insights.
 
 My work focuses on:
 
-- 📊 **Business dashboards** that make KPIs and trends easy to understand
-- 🧮 **SQL analysis** to answer business questions and uncover patterns
-- 🐍 **Python-based data analysis** for cleaning, exploration, and insights
-- 📈 **Interactive Tableau & Power BI reports** for decision-making
+- 📊 **Business dashboards** for tracking KPIs, trends, and performance
+- 🧮 **SQL analysis** for answering business questions and finding patterns
+- 🐍 **Python-based analysis** for data cleaning, preparation, and exploration
+- 📈 **Tableau & Power BI reporting** for interactive decision support
 - 🔎 **Exploratory analysis** to identify trends, opportunities, and problems
-- 🚀 **Portfolio projects** built around realistic business scenarios
 
-I care about more than making charts look good.
-The goal is to make the data **useful**.
+I care about more than making charts look good. The goal is to make the data **useful for decisions**.
 
 <p align="center">
   <img src="chibi-analyst.png" width="220" alt="Bhaskar chibi data analyst character">
@@ -43,8 +41,8 @@ The goal is to make the data **useful**.
 
 ## 🛠️ Main Tech Stack
 
-- **SQL** — querying, aggregation, joins, analysis, business problems
-- **Python** — Pandas, NumPy, data cleaning and exploratory analysis
+- **SQL** — querying, aggregation, joins, and business analysis
+- **Python** — Pandas, NumPy, data cleaning, and exploratory analysis
 - **Tableau** — interactive dashboards and data storytelling
 - **Power BI** — business intelligence and KPI reporting
 - **Excel** — analysis, reporting, and data preparation
@@ -57,29 +55,35 @@ The goal is to make the data **useful**.
 
 ### 👥 HR Analytics Dashboard
 
-Analyzed workforce data to understand employee trends, HR metrics, and organizational patterns.
+A workforce analytics dashboard for HR and business teams to monitor headcount, hiring, terminations, compensation, performance, and workforce distribution in one place.
 
-**Built with:** Tableau · Data Analysis
+**Built with:** Tableau · Python · Pandas · NumPy
+
+**Use case:** Workforce planning, HR reporting, and management decision support.
 
 [View Project →](https://github.com/bhaskar-nb/hr-dashboard)
 
 ---
 
-### 🎬 Amazon Prime Dashboard
+### 🎬 Amazon Prime Content Intelligence Dashboard
 
-Explored content distribution, genres, ratings, release trends, and catalog patterns.
+A content analytics dashboard for exploring catalog mix, genres, ratings, release trends, and geographic distribution to identify patterns in a streaming content library.
 
-**Built with:** Tableau · Data Analysis
+**Built with:** Tableau
+
+**Use case:** Content analysis, catalog comparison, and trend discovery.
 
 [View Project →](https://github.com/bhaskar-nb/amazon-prime-dashboard)
 
 ---
 
-### ⚡ EV Adoption Dashboard
+### ⚡ Electric Vehicle Registration Analysis
 
-Analyzed electric vehicle adoption patterns and market-level trends to understand how EV usage is changing.
+An EV registration analysis dashboard for exploring trends, manufacturer share, vehicle mix, geographic concentration, and electric range across the available dataset.
 
-**Built with:** Tableau · Data Visualization
+**Built with:** Tableau
+
+**Use case:** EV adoption analysis, manufacturer comparison, and geographic trend analysis.
 
 [View Project →](https://github.com/bhaskar-nb/ev-dashboard)
 
@@ -87,9 +91,11 @@ Analyzed electric vehicle adoption patterns and market-level trends to understan
 
 ### 🌍 Global Disaster Analysis
 
-Analyzed **15,090 disaster events** to understand human impact, affected populations, and global disaster patterns.
+Analyzed **15,090 disaster events** to explore human impact, affected populations, and global disaster patterns.
 
 **Built with:** Tableau · Data Analysis
+
+**Use case:** Understanding disaster trends, impact, and geographic patterns.
 
 [View Project →](https://github.com/bhaskar-nb/disaster-dashboard)
 
