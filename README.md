@@ -1,123 +1,171 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="header-light.png">
-    <img src="header-light.png" alt="Bhaskar Nakka — Data Analyst" width="100%">
-  </picture>
-</p>
-
 <h1 align="center">Hi, I'm Bhaskar 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | SQL | Python | Tableau | Power BI</b>
+  <b>Junior Data Analyst | SQL · Python · Excel · Tableau · Power BI</b>
 </p>
 
 <p align="center">
-  I build practical analytics and business intelligence solutions that turn messy data into clear insights for better business decisions.
+  I turn raw and messy data into clear analysis, useful insights, and dashboards that make business questions easier to answer.
 </p>
 
----
-
-## What I Build
-
-I build **data analytics and business intelligence projects** for teams that need a clearer view of performance, trends, and business problems.
-
-My work includes:
-
-- **Business dashboards** — KPI tracking, performance reporting, and decision support
-- **SQL analysis** — turning business questions into measurable insights
-- **Python analysis** — cleaning, transforming, exploring, and validating data
-- **Tableau & Power BI solutions** — interactive reporting and data storytelling
-- **Exploratory analysis** — finding trends, patterns, and areas that need attention
-
-I focus on making analytics **useful, understandable, and connected to real business questions** — not just building charts.
-
 <p align="center">
-  <img src="chibi-analyst.png" width="220" alt="Bhaskar chibi data analyst character">
+  <a href="https://www.linkedin.com/in/bhaskar-nakka-43a701259/">LinkedIn</a> ·
+  <a href="https://bhaskar-nb-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="mailto:bn7740401@gmail.com">Email</a>
 </p>
 
 ---
 
-## Main Tech Stack
+## 👋 About Me
 
-- **SQL** — querying, joins, aggregation, and business analysis
-- **Python** — Pandas, NumPy, data cleaning, and exploratory analysis
-- **Tableau** — interactive dashboards and data storytelling
-- **Power BI** — business intelligence and KPI reporting
-- **Excel** — analysis, reporting, and data preparation
-- **MySQL** — relational database querying
-- **Git & GitHub** — version control and project development
+I'm a **Junior Data Analyst and Computer Science Engineering graduate** focused on turning data into something people can actually use.
+
+My work usually starts with a messy dataset and ends with a clean analysis, a useful dashboard, or a clear answer to a business question.
+
+I work with:
+
+* **SQL** — querying, joins, aggregations, CTEs, and analytical functions
+* **Python** — Pandas, NumPy, data cleaning, and exploratory analysis
+* **Excel** — Pivot Tables, analysis, reporting, and dashboards
+* **Tableau** — interactive dashboards and data storytelling
+* **Power BI** — KPI reporting and business intelligence
+* **Git & GitHub** — version control and project documentation
+
+I'm currently looking for **remote Junior Data Analyst opportunities and freelance analytics projects**.
 
 ---
 
-## Selected Projects
+## 💼 Experience
 
-### HR Analytics Dashboard
+### Data Analytics Intern — DecodeLabs
 
-Workforce analytics focused on headcount, hiring, terminations, compensation, performance, and workforce distribution.
+Worked through an end-to-end analytics workflow involving:
 
-**Built with:** Tableau · Python · Pandas · NumPy
+**Data Cleaning → EDA → SQL Analysis → Tableau Dashboard**
 
-[View Project →](https://github.com/bhaskar-nb/hr-dashboard)
+The work included cleaning raw data, exploring business patterns, writing SQL queries, calculating metrics, and turning the analysis into an interactive dashboard.
 
-### Amazon Prime Content Intelligence Dashboard
+**Tools:** Python · Pandas · SQL · SQLite · Tableau
 
-Content analysis covering catalog mix, genres, ratings, release trends, and geographic distribution.
+[View Internship Work →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
 
-**Built with:** Tableau
+### Data / Data Science Intern — EduExpose
 
-[View Project →](https://github.com/bhaskar-nb/amazon-prime-dashboard)
+Worked on data-focused projects involving data preparation, analysis, and machine-learning-oriented work during my final-semester internship.
 
-### Electric Vehicle Registration Analysis
+---
 
-Analysis of EV adoption, manufacturer share, vehicle mix, geographic concentration, and electric range.
+## 🚀 Featured Projects
 
-**Built with:** Tableau
+### 01. SQL Data Warehouse & Analytics
 
-[View Project →](https://github.com/bhaskar-nb/ev-dashboard)
+A SQL-focused project built around structured data, transformations, analytical queries, and business-oriented analysis.
 
-### Global Disaster Analysis
+**Focus:** SQL · Data Modeling · Data Transformation · Analytics
 
-Analysis of **15,090 disaster events** to understand human impact, affected populations, and global patterns.
+[View Project →](https://github.com/bhaskar-nb/sql-data-warehouse-project)
 
-**Built with:** Tableau · Data Analysis
+---
 
-[View Project →](https://github.com/bhaskar-nb/disaster-dashboard)
+### 02. DecodeLabs Analytics Internship
+
+An end-to-end analytics workflow covering data cleaning, exploratory analysis, SQL business analysis, and Tableau visualization.
+
+**Focus:** Python · SQL · EDA · Tableau
+
+[View Project →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
+
+---
+
+### 03. Sales Performance Dashboard
+
+A business-focused Tableau dashboard analyzing sales, profit, quantity, category performance, and year-over-year changes.
+
+**Focus:** Tableau · KPI Analysis · Profitability · Business Analysis
+
+[View Project →](https://github.com/bhaskar-nb/sales-dashboard)
+
+---
+
+### More Projects
+
+I also work on:
+
+* HR Analytics
+* Electric Vehicle Analysis
+* Global Disaster Analysis
+* Amazon Prime Content Analysis
+* Hospital Emergency Analytics
+* Bike Sales Analysis
+* Machine Learning projects
+
+[Explore all repositories →](https://github.com/bhaskar-nb?tab=repositories)
+
+---
+
+## 🛠️ Tech Stack
+
+**Analytics**
+
+`SQL` `Python` `Pandas` `NumPy` `Excel`
+
+**BI & Visualization**
+
+`Tableau` `Power BI` `Matplotlib`
+
+**Databases & Tools**
+
+`MySQL` `SQLite` `Git` `GitHub` `VS Code`
+
+---
+
+## 📚 Currently Working On
+
+I'm currently going deeper into **SQL and business analytics**, with a focus on:
+
+* Advanced SQL
+* Window functions
+* Data warehousing
+* Exploratory data analysis
+* Business-focused analytics
+* Building stronger Power BI dashboards
+* Creating projects that answer real business questions rather than just displaying charts
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm open to:
+
+**Remote Junior Data Analyst roles**
+
+and
+
+**Freelance data analytics projects**
+
+Especially work involving:
+
+* SQL analysis
+* Data cleaning
+* Excel reporting
+* Tableau / Power BI dashboards
+* Exploratory data analysis
+* Business and KPI analysis
+
+If you have a dataset that needs cleaning, analysis, or a dashboard that needs building, feel free to reach out.
+
+---
+
+## 📫 Contact
+
+**Email:** [bn7740401@gmail.com](mailto:bn7740401@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/bhaskar-nakka-43a701259](https://www.linkedin.com/in/bhaskar-nakka-43a701259/)
+
+**Portfolio:** [bhaskar-nb-portfolio.vercel.app](https://bhaskar-nb-portfolio.vercel.app/)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/bhaskar-nb/sales-dashboard">
-    <img src="https://img.shields.io/badge/More%20Analytics%20Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="More analytics projects">
-  </a>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-nb&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%" alt="GitHub activity graph">
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhaskar-nb/bhaskar-nb/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake">
-</p>
-
----
-
-## Contact
-
-**Email:** bn7740401@gmail.com
-
-<p align="center">
-  <b>Data → Insights → Decisions</b>
+  <b>Data → Analysis → Insight</b>
 </p>
