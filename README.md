@@ -5,167 +5,90 @@
 </p>
 
 <p align="center">
-  I turn raw and messy data into clear analysis, useful insights, and dashboards that make business questions easier to answer.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhaskar-nakka-43a701259/">LinkedIn</a> ·
-  <a href="https://bhaskar-nb-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="mailto:bn7740401@gmail.com">Email</a>
+  I build data analysis and business intelligence solutions that turn messy data into clear answers, useful insights, and easy-to-understand dashboards.
 </p>
 
 ---
 
-## 👋 About Me
+## What I Build
 
-I'm a **Junior Data Analyst and Computer Science Engineering graduate** focused on turning data into something people can actually use.
+I work on analytics projects that help people understand **what is happening in their data and where they should look next**.
 
-My work usually starts with a messy dataset and ends with a clean analysis, a useful dashboard, or a clear answer to a business question.
+My work includes:
 
-I work with:
+- **SQL analysis** — answering business questions, joining datasets, calculating KPIs, and finding patterns
+- **Data cleaning & EDA** — preparing messy data and exploring trends, relationships, and anomalies
+- **Business dashboards** — turning analysis into clear, interactive reports
+- **KPI & performance analysis** — tracking sales, customers, operations, workforce, and other business metrics
+- **Data storytelling** — presenting findings in a way that's easy for non-technical people to understand
 
-* **SQL** — querying, joins, aggregations, CTEs, and analytical functions
-* **Python** — Pandas, NumPy, data cleaning, and exploratory analysis
-* **Excel** — Pivot Tables, analysis, reporting, and dashboards
-* **Tableau** — interactive dashboards and data storytelling
-* **Power BI** — KPI reporting and business intelligence
-* **Git & GitHub** — version control and project documentation
-
-I'm currently looking for **remote Junior Data Analyst opportunities and freelance analytics projects**.
+I care less about making dashboards look busy and more about making the analysis **clear and useful**.
 
 ---
 
-## 💼 Experience
+## Who I Build For
 
-### Data Analytics Intern — DecodeLabs
+I'm interested in working with:
 
-Worked through an end-to-end analytics workflow involving:
+- **Companies** that need reliable reporting and data analysis
+- **Teams** that want to understand their KPIs and performance
+- **Startups** that need practical analytics without unnecessary complexity
+- **Freelance clients** who need data cleaned, analyzed, or turned into a useful dashboard
 
-**Data Cleaning → EDA → SQL Analysis → Tableau Dashboard**
-
-The work included cleaning raw data, exploring business patterns, writing SQL queries, calculating metrics, and turning the analysis into an interactive dashboard.
-
-**Tools:** Python · Pandas · SQL · SQLite · Tableau
-
-[View Internship Work →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
-
-### Data / Data Science Intern — EduExpose
-
-Worked on data-focused projects involving data preparation, analysis, and machine-learning-oriented work during my final-semester internship.
+I'm currently looking for **remote Junior Data Analyst opportunities and freelance analytics work**.
 
 ---
 
-## 🚀 Featured Projects
+## Main Tech Stack
 
-### 01. SQL Data Warehouse & Analytics
-
-A SQL-focused project built around structured data, transformations, analytical queries, and business-oriented analysis.
-
-**Focus:** SQL · Data Modeling · Data Transformation · Analytics
-
-[View Project →](https://github.com/bhaskar-nb/sql-data-warehouse-project)
-
----
-
-### 02. DecodeLabs Analytics Internship
-
-An end-to-end analytics workflow covering data cleaning, exploratory analysis, SQL business analysis, and Tableau visualization.
-
-**Focus:** Python · SQL · EDA · Tableau
-
-[View Project →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
+- **SQL** — querying, joins, aggregations, CTEs, window functions
+- **Python** — Pandas, NumPy, data cleaning, exploratory analysis
+- **Excel** — Pivot Tables, reporting, analysis, dashboards
+- **Tableau** — interactive dashboards and data visualization
+- **Power BI** — KPI reporting and business intelligence
+- **Git & GitHub** — version control and project documentation
 
 ---
 
-### 03. Sales Performance Dashboard
+## What I'm Working On
 
-A business-focused Tableau dashboard analyzing sales, profit, quantity, category performance, and year-over-year changes.
+I'm currently strengthening my SQL and BI skills through practical projects focused on:
 
-**Focus:** Tableau · KPI Analysis · Profitability · Business Analysis
+- Advanced SQL and analytical queries
+- Data warehousing and structured analytics
+- Exploratory data analysis
+- Business-focused KPI analysis
+- Power BI dashboard development
+- Building projects around realistic business problems
+
+---
+
+## Selected Work
+
+### Sales Performance Analysis
+
+Tableau dashboard focused on sales, profit, quantity, product performance, and year-over-year analysis.
 
 [View Project →](https://github.com/bhaskar-nb/sales-dashboard)
 
----
+### DecodeLabs Data Analytics Internship
 
-### More Projects
+End-to-end analytics work covering data cleaning, EDA, SQL analysis, and Tableau reporting.
 
-I also work on:
+[View Project →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
 
-* HR Analytics
-* Electric Vehicle Analysis
-* Global Disaster Analysis
-* Amazon Prime Content Analysis
-* Hospital Emergency Analytics
-* Bike Sales Analysis
-* Machine Learning projects
+### HR Analytics Dashboard
 
-[Explore all repositories →](https://github.com/bhaskar-nb?tab=repositories)
+Interactive workforce analysis covering headcount, hiring, terminations, compensation, performance, and workforce distribution.
+
+[View Project →](https://github.com/bhaskar-nb/hr-dashboard)
+
+[View all projects →](https://github.com/bhaskar-nb?tab=repositories)
 
 ---
 
-## 🛠️ Tech Stack
+## Let's Connect
 
-**Analytics**
-
-`SQL` `Python` `Pandas` `NumPy` `Excel`
-
-**BI & Visualization**
-
-`Tableau` `Power BI` `Matplotlib`
-
-**Databases & Tools**
-
-`MySQL` `SQLite` `Git` `GitHub` `VS Code`
-
----
-
-## 📚 Currently Working On
-
-I'm currently going deeper into **SQL and business analytics**, with a focus on:
-
-* Advanced SQL
-* Window functions
-* Data warehousing
-* Exploratory data analysis
-* Business-focused analytics
-* Building stronger Power BI dashboards
-* Creating projects that answer real business questions rather than just displaying charts
-
----
-
-## 🎯 What I'm Looking For
-
-I'm open to:
-
-**Remote Junior Data Analyst roles**
-
-and
-
-**Freelance data analytics projects**
-
-Especially work involving:
-
-* SQL analysis
-* Data cleaning
-* Excel reporting
-* Tableau / Power BI dashboards
-* Exploratory data analysis
-* Business and KPI analysis
-
-If you have a dataset that needs cleaning, analysis, or a dashboard that needs building, feel free to reach out.
-
----
-
-## 📫 Contact
+If you have a **data analytics project, freelance requirement, or remote Junior Data Analyst opportunity**, I'd be happy to connect.
 
 **Email:** [bn7740401@gmail.com](mailto:bn7740401@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/bhaskar-nakka-43a701259](https://www.linkedin.com/in/bhaskar-nakka-43a701259/)
-
-**Portfolio:** [bhaskar-nb-portfolio.vercel.app](https://bhaskar-nb-portfolio.vercel.app/)
-
----
-
-<p align="center">
-  <b>Data → Analysis → Insight</b>
-</p>
