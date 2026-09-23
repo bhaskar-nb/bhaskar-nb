@@ -5,43 +5,40 @@
 </p>
 
 <p align="center">
-  I build data analysis and business intelligence solutions that turn messy data into clear answers, useful insights, and easy-to-understand dashboards.
+  I analyze messy data, answer business questions, and turn findings into clear reports and dashboards.
 </p>
+
+---
+
+## What You'll Find Here
+
+- **SQL analysis** — business questions, joins, aggregations, CTEs, and analytical queries
+- **Python analysis** — data cleaning, exploratory analysis, Pandas, and NumPy
+- **Excel reporting** — Pivot Tables, KPI analysis, and dashboards
+- **Business intelligence** — Tableau and Power BI dashboards
+- **Practical projects** — internship work and portfolio projects built around real-world-style datasets
+
+I'm currently looking for **remote Junior Data Analyst roles and freelance analytics projects**.
 
 ---
 
 ## What I Build
 
-I work on analytics projects that help people understand **what is happening in their data and where they should look next**.
+I build analytics solutions around problems such as:
 
-My work includes:
+- Understanding sales and profitability
+- Tracking business and operational KPIs
+- Exploring customer, workforce, and performance data
+- Cleaning and preparing messy datasets
+- Turning analysis into dashboards that are easy to understand
 
-- **SQL analysis** — answering business questions, joining datasets, calculating KPIs, and finding patterns
-- **Data cleaning & EDA** — preparing messy data and exploring trends, relationships, and anomalies
-- **Business dashboards** — turning analysis into clear, interactive reports
-- **KPI & performance analysis** — tracking sales, customers, operations, workforce, and other business metrics
-- **Data storytelling** — presenting findings in a way that's easy for non-technical people to understand
-
-I care less about making dashboards look busy and more about making the analysis **clear and useful**.
-
----
-
-## Who I Build For
-
-I'm interested in working with:
-
-- **Companies** that need reliable reporting and data analysis
-- **Teams** that want to understand their KPIs and performance
-- **Startups** that need practical analytics without unnecessary complexity
-- **Freelance clients** who need data cleaned, analyzed, or turned into a useful dashboard
-
-I'm currently looking for **remote Junior Data Analyst opportunities and freelance analytics work**.
+The goal is simple: **make data easier to understand and easier to use.**
 
 ---
 
 ## Main Tech Stack
 
-- **SQL** — querying, joins, aggregations, CTEs, window functions
+- **SQL** — querying, joins, aggregations, CTEs, analytical queries
 - **Python** — Pandas, NumPy, data cleaning, exploratory analysis
 - **Excel** — Pivot Tables, reporting, analysis, dashboards
 - **Tableau** — interactive dashboards and data visualization
@@ -50,36 +47,36 @@ I'm currently looking for **remote Junior Data Analyst opportunities and freelan
 
 ---
 
-## What I'm Working On
+## Currently Working On
 
-I'm currently strengthening my SQL and BI skills through practical projects focused on:
+I'm going deeper into **SQL and business analytics** through practical projects focused on:
 
 - Advanced SQL and analytical queries
-- Data warehousing and structured analytics
+- Data warehousing
 - Exploratory data analysis
 - Business-focused KPI analysis
 - Power BI dashboard development
-- Building projects around realistic business problems
+- Projects based on realistic business problems
 
 ---
 
 ## Selected Work
 
-### Sales Performance Analysis
-
-Tableau dashboard focused on sales, profit, quantity, product performance, and year-over-year analysis.
-
-[View Project →](https://github.com/bhaskar-nb/sales-dashboard)
-
 ### DecodeLabs Data Analytics Internship
 
-End-to-end analytics work covering data cleaning, EDA, SQL analysis, and Tableau reporting.
+End-to-end analytics work covering **data cleaning → EDA → SQL analysis → Tableau reporting**.
 
 [View Project →](https://github.com/bhaskar-nb/DecodeLabs-Internship)
 
+### Sales Performance Analysis
+
+Tableau dashboard focused on **sales, profit, quantity, product performance, and year-over-year analysis**.
+
+[View Project →](https://github.com/bhaskar-nb/sales-dashboard)
+
 ### HR Analytics Dashboard
 
-Interactive workforce analysis covering headcount, hiring, terminations, compensation, performance, and workforce distribution.
+Interactive workforce analysis covering **headcount, hiring, terminations, compensation, performance, and workforce distribution**.
 
 [View Project →](https://github.com/bhaskar-nb/hr-dashboard)
 
@@ -89,6 +86,6 @@ Interactive workforce analysis covering headcount, hiring, terminations, compens
 
 ## Let's Connect
 
-If you have a **data analytics project, freelance requirement, or remote Junior Data Analyst opportunity**, I'd be happy to connect.
+If you have a **remote Junior Data Analyst opportunity or a freelance data analytics project**, I'd be happy to connect.
 
 **Email:** [bn7740401@gmail.com](mailto:bn7740401@gmail.com)
